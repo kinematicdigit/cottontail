@@ -51,6 +51,10 @@ All the various parts to print plus the optional parts for the MMB version.
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166559945559392327/IMG_6649.jpg?ex=654aee9c&is=6538799c&hm=9c2742055f2df63a0f79f44856ed78f66d5a14c02712e17de71a1af0c01af8d8&=&width=1118&height=1492)
 
 **INSTRUCTIONS**
+
+I recommend printing the arms at .2 layer height, with 4 walls, and 10% lightning infill. This will reduce the amount of filament used by a lot. The rest of the parts can be printed with .2 layer height and 20-30% gyroid infill.
+
+
 Start off with your printed channel arm by adding a 4mm deep M3 heatset installed into the back of the arm. Take care not to go too far past the channel.
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166561293759684689/F00BC57D-E84A-4815-BBF8-64DA2912EA63.jpg?ex=654aefde&is=65387ade&hm=08bdc35eeea923c49fbd9ed99b090e794108d374da130eb86964d8f3a84d852e&=&width=1118&height=1492)
