@@ -1,4 +1,5 @@
-#Cotton Tail for ERCF#
+#Cotton Tail for ERCF
+
 ## DEVELOPMENT AND BETA!
 
 **This is project is still underdevelopment, **please proceed with caution. I hold no responsibilities for any personal damages for the use of any of these files. Please do not modifiy or share any of the files.
