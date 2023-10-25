@@ -25,7 +25,6 @@ Features:
 - Filament indicator - Future QoL option that will include the ability to light up each gate to tell you if it is loaded/active and empty/out of filament.
 
 **BOM (subject to change) Each Arm needs:
-**![](https://media.discordapp.net/attachments/1165841694273585234/1166562691826077706/03CB5978-38C3-488A-B398-2204F452D71F.jpg?ex=654af12b&is=65387c2b&hm=0da278509b22ea01d22021a0aa45ddae4c7f6d433669017a782053f46bdfc8fb&=&width=1118&height=1492)
 (5-8) 8mm M3 screws
 (0-1) 16mm M3 screw
 (1) 25mm M3 screw
