@@ -25,7 +25,6 @@ Features:
 - Filament indicator - Future QoL option that will include the ability to light up each gate to tell you if it is loaded/active and empty/out of filament.
 
 **BOM (subject to change) Each Arm needs:
-**![](https://media.discordapp.net/attachments/1165841694273585234/1166562691826077706/03CB5978-38C3-488A-B398-2204F452D71F.jpg?ex=654af12b&is=65387c2b&hm=0da278509b22ea01d22021a0aa45ddae4c7f6d433669017a782053f46bdfc8fb&=&width=1118&height=1492)
 (5-8) 8mm M3 screws
 (0-1) 16mm M3 screw
 (1) 25mm M3 screw
@@ -51,6 +50,10 @@ All the various parts to print plus the optional parts for the MMB version.
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166559945559392327/IMG_6649.jpg?ex=654aee9c&is=6538799c&hm=9c2742055f2df63a0f79f44856ed78f66d5a14c02712e17de71a1af0c01af8d8&=&width=1118&height=1492)
 
 **INSTRUCTIONS**
+
+I recommend printing the arms at .2 layer height, with 4 walls, and 10% lightning infill. This will reduce the amount of filament used by a lot. The rest of the parts can be printed with .2 layer height and 20-30% gyroid infill.
+
+
 Start off with your printed channel arm by adding a 4mm deep M3 heatset installed into the back of the arm. Take care not to go too far past the channel.
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166561293759684689/F00BC57D-E84A-4815-BBF8-64DA2912EA63.jpg?ex=654aefde&is=65387ade&hm=08bdc35eeea923c49fbd9ed99b090e794108d374da130eb86964d8f3a84d852e&=&width=1118&height=1492)
