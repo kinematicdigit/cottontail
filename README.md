@@ -1,4 +1,4 @@
-#Cotton Tail for ERCF
+##Cotton Tail for ERCF
 
 ## DEVELOPMENT AND BETA!
 
@@ -33,6 +33,7 @@ PTFE Tubing (4mm OD/3MM ID recommended)
 (1) 608 2RS Bearing (same as ERCP - skateboard bearing)
 (1) ECAS
 (2) M3 Hammerhead T-Nuts (for 2020 extrusions)
+
 Optional will be
 (1) BTT MMB Can board
 (1) Microswitch
@@ -45,7 +46,7 @@ All the files are located in the STL folder and instructions below:
 All the various parts to print, plus the optional parts for the MMB version (still underdevelopment). 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166559327402864740/3ACBDFDA-B7D4-4004-BF0B-E50EAFB31C6A.jpg?ex=654aee09&is=65387909&hm=875cfd432fc3a96d6faa8afc916acef6bbccdc20713cf08085ed1f5bf1cf0ea7&=&width=1990&height=1492)
 
-**Each channel will require these
+**Each channel (only one axial and knob for projec) uses pictured below
 **
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166559945559392327/IMG_6649.jpg?ex=654aee9c&is=6538799c&hm=9c2742055f2df63a0f79f44856ed78f66d5a14c02712e17de71a1af0c01af8d8&=&width=1118&height=1492)
 
