@@ -42,7 +42,7 @@ Optional will be
 
 All the files are located in the STL folder and instructions below:
 
-All the various parts to print plus the optional parts for the MMB version. 
+All the various parts to print, plus the optional parts for the MMB version (still underdevelopment). 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166559327402864740/3ACBDFDA-B7D4-4004-BF0B-E50EAFB31C6A.jpg?ex=654aee09&is=65387909&hm=875cfd432fc3a96d6faa8afc916acef6bbccdc20713cf08085ed1f5bf1cf0ea7&=&width=1990&height=1492)
 
 **Each channel will require these
@@ -51,7 +51,7 @@ All the various parts to print plus the optional parts for the MMB version.
 
 **INSTRUCTIONS**
 
-I recommend printing the arms at .2 layer height, with 4 walls, and 10% lightning infill. This will reduce the amount of filament used by a lot. The rest of the parts can be printed with .2 layer height and 20-30% gyroid infill.
+I recommend printing the arms at .2 layer height, with 4 walls and 10% lightning infill. This will reduce the amount of filament used by a lot. The rest of the parts can be printed with .2 layer height and 20-30% gyroid infill.
 
 
 Start off with your printed channel arm by adding a 4mm deep M3 heatset installed into the back of the arm. Take care not to go too far past the channel.
@@ -59,17 +59,17 @@ Start off with your printed channel arm by adding a 4mm deep M3 heatset installe
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166561293759684689/F00BC57D-E84A-4815-BBF8-64DA2912EA63.jpg?ex=654aefde&is=65387ade&hm=08bdc35eeea923c49fbd9ed99b090e794108d374da130eb86964d8f3a84d852e&=&width=1118&height=1492)
 
 The heatset is optional as the dovetail is plenty strong.
-Make sure you print the correct length axial screw. They are labelled for how many channels. They are longer than needed invade you need to put a bypass divider or extra support. Use the matching nut and work it through the acme screw to make it smooth. A brass brush can also be used to clean it up a little.
+Make sure you print the correct length axial screw. They are labelled for how many channels. They are longer than needed, in case you need to put a bypass divider or extra support. Use the matching nut and work it through the acme screw to make it smooth. A brass brush can also be used to clean it up a little.
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166562691826077706/03CB5978-38C3-488A-B398-2204F452D71F.jpg?ex=654af12b&is=65387c2b&hm=0da278509b22ea01d22021a0aa45ddae4c7f6d433669017a782053f46bdfc8fb&=&width=1118&height=1492)
 
-Load the axial and get the buffer wheel prepped. The 608 bearing should slide in with just a tiny bit of resistance. The flat side of the buffer wheel is what is loaded first. This is important as the filament loading holes are designed to be on the right hand side.
+Load the axial and get the buffer wheel prepped. The 608 bearings should slide in with just a tiny bit of resistance. The flat side of the buffer wheel is what is loaded first. This is important as the filament loading holes are designed to be on the right-hand side.
 
 |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166563432158474300/7CB9A713-7055-4E55-9514-00930C308F54.jpg?ex=654af1db&is=65387cdb&hm=05682bf48e50b070b7051a8c5cbc5dd3b4052f38bef27b82e55300f968cb530a&=&width=1118&height=1492) |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166563432837939351/A02FD7E0-9BDB-4D4F-BE65-BA50A2319948.jpg?ex=654af1dc&is=65387cdc&hm=2fa28c16409a1387976f122d807520bd9f47326ee32948361599a4b0440f2eb9&=&width=1118&height=1492) |
 | :------------: | :------------: |
 |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166563433546780783/03955A03-D25D-4BAC-85CB-51AF9257F4D3.jpg?ex=654af1dc&is=65387cdc&hm=d5760c973abb4401dbe57e11425edbc17d3d052c994a63321a34e96f3aa757ee&=&width=1118&height=1492) |![](https://media.discordapp.net/attachments/1165841694273585234/1166563434318540821/7BA1B57D-1493-4D9E-90A0-0809B1D892E8.jpg?ex=654af1dc&is=65387cdc&hm=cb9fb0a623f18dce3bedc15acbd23bec98278482be93f553943c0ff95a03a828&=&width=1118&height=1492)  |
 
-When pushing down on the axial put your thumbs on each side of the bearing and push down with moderate force. Don't push too hard. If it doesn't go on use a little sand paper on the axial to reduce it. It is a tight fit but should slide on. Your pressure on the bearings will ensure the wheel is as balanced as possible. Theres a very tiny bit of gap between the wheel and the side of the arm. Don't worry too much if it isnt perfect but you can try to balance it and spin it to check.
+When pushing down on the axial, put your thumbs on each side of the bearing and push down with moderate force. Don't push too hard. If it doesn't go on, use a little sandpaper on the axial to reduce it. It is a tight fit but should slide on. Your pressure on the bearings will ensure the wheel is as balanced as possible. There's a very tiny bit of gap between the wheel and the side of the arm. Don't worry too much if it isn't perfect but you can try to balance it and spin it to check.
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166566036422807642/501AC665-4C87-4F9B-BF9E-02EE1D704131.jpg?ex=654af448&is=65387f48&hm=648fdbba8d59edb812f41b0c823f684989694b0937867eefc1a41e239f2cf646&=&width=1118&height=1492)
 
@@ -78,26 +78,26 @@ Add spacer ring and preload M3 hammer t-nuts on M3 8mm SHCS  screws.![](https://
 Load the mount onto the arm. Optionally you can add a M3 16mm screw to secure it.  This is completely optional.
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166567693583908904/IMG_6652.jpg?ex=654af5d3&is=653880d3&hm=70b52f8bbdef868a77c80ff1d0e37bf9ed12a1a27fb2f5ecc8c8ef6643440984&=&width=1118&height=1492)
 
-Squeeze the printed spring (doesnt matter which way) and slide into the slot on the sloped side.
+Squeeze the printed spring (it doesn't matter which way) and slide into the slot on the sloped side.
  ![](https://media.discordapp.net/attachments/1165841694273585234/1166568671204888596/IMG_6653.jpg?ex=654af6bd&is=653881bd&hm=fb12bcfa2adb8d3f501981e8632aaa37dd005f5b0466eb5fffeb34896d87dc1f&=&width=1118&height=1492)
  
  ![](https://media.discordapp.net/attachments/1165841694273585234/1166568671922106388/IMG_6654.jpg?ex=654af6bd&is=653881bd&hm=4a9a488689e897a7960f7114ab0fdd760e367dec803a9a08a4e61ec677750488&=&width=1118&height=1492) 
 
-Add ECAS fitting in hole. It's a snug fit.
+Add ECAS fitting in the hole. It's a snug fit.
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166568911723044895/IMG_6655.jpg?ex=654af6f6&is=653881f6&hm=85300ae26aa64c36958a8da428391baffac58722e81088e360727d9808782044&=&width=1118&height=1492)
 
 The coupler block will fit right onto the pins on the arm and push fit.
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166569795395797022/IMG_6658.jpg?ex=654af7c9&is=653882c9&hm=27dbb7f43be6c9083e5d76186b036d6be1e301e9319943b21d5852b60dd3953a&=&width=1118&height=1492)
 
-Repeat process until all gates are loaded. When you get to the end you will add the end cap and fix the final M3 25mm screw.  This does need the heat set to be in the last channel arm to secure.
+Repeat the process until all gates are loaded. When you get to the end, you will add the end cap and fix the final M3 25mm screw.  This does need the heat set to be in the last channel arm to secure.
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166572214221557790/IMG_6660.jpg?ex=654afa09&is=65388509&hm=c8c7c16fdb9b55328cc9e0377ed0602b003543824068e6ffca8fbc81dee39632&=&width=1118&height=1492)
 
-Secure screws into all the sides. You may optionally use just 3 screws if you like but 6 is the recommended amount. All the screws go into an angle and are all self tapping. Do not over tighten or you’ll strip the plastic. 
+Secure screws into all the sides. You may optionally use just 3 screws if you like, but 6 is the recommended amount. All the screws go into an angle and are all self-tapping. Do not over-tighten or you’ll strip the plastic. 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1166573596475408445/IMG_6662.jpg?ex=654afb53&is=65388653&hm=00c79f1a1ab782b5a365088b02000d8ccf0e88f0514f15617774aab86e2dafd0&=&width=1118&height=1492)
 
-Next step is prepping the ERCF. If you have wiring clips remove it and free all your wires. Line up the tnuts as best you can. Make sure you didn't wind them all the way down. The screws should have enough friction to hold them in place to make this part easier for you
-It should sit right on the shoulder and slip in. If not, jiggle it a little and it should all mate perfectly. Grab your driver and turn and it should tighten right away if not back off a quick half turn and turn the back the other way to load the nut in place. The last part is to cut 85mm of tube or start out a little longer if you like in case  you are using a different filament block than V6.3 of triple decky.
+The next step is prepping the ERCF. If you have wiring clips, remove them and free all your wires. Line up the tnuts as best you can. Make sure you didn't wind them all the way down. The screws should have enough friction to hold them in place to make this part easier for you.
+It should sit right on the shoulder and slip in. If not, jiggle it a little, and it should all mate perfectly. Grab your driver and turn and it should tighten right away. If not, back off a quick half-turn and turn the back the other way to load the nut in place. The last part is to cut 85mm of the tube or start out a little longer if you like, in case you use a different filament block than V6.3 of triple-decky.
 
 
 |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166575608810176532/IMG_6661.jpg?ex=654afd33&is=65388833&hm=7d6cfc7b61cf3d7b00ee9c549e4090a5f7aebe0f0942ece87f1ce9225f3c0a2f&=&width=1990&height=1492) | ![](https://media.discordapp.net/attachments/1165841694273585234/1166575898783391824/IMG_6664.jpg?ex=654afd78&is=65388878&hm=5bf0d94c3d3683103a2148c94dadd1ff409925a7031f0d9214f98d2c442cf0c0&=&width=1118&height=1492)|
