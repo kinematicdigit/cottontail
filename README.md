@@ -4,7 +4,7 @@
 
 **This is project is still underdevelopment, **please proceed with caution. I hold no responsibilities for any personal damages for the use of any of these files. Please do not modifiy or share any of the files.
 
-Any bugs or observations, please report them to the #cotton-tail channel located at this server on discord: https://discord.gg/CATt7BUC
+Any bugs or observations, please report them to the #cotton-tail channel located at this server on discord: https://discord.gg/4b2fCnue
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1165910456683221073/394413133_10160827106300856_2289264436205624168_n.png?ex=654891ba&is=65361cba&hm=1bbe1b6bbc529e638add06c535aef12ad2c58fd5fa59339fec894c2ca8a0237b&=&width=2076&height=1492)
 
@@ -105,7 +105,7 @@ It should sit right on the shoulder and slip in. If not, jiggle it a little, and
 | :------------: | :------------: |
 |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166575898783391824/IMG_6664.jpg?ex=654afd78&is=65388878&hm=5bf0d94c3d3683103a2148c94dadd1ff409925a7031f0d9214f98d2c442cf0c0&=&width=1118&height=1492)  |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166578178794475520/26981E20-72F5-48BD-9927-712CA4046C2F.jpg?ex=654aff97&is=65388a97&hm=78f1f8481aad4379547d5d40a72189eef7239af00d0ed1b9585c63fc5cc73820&=&width=1118&height=1492) |
 
-Insert the cut PTFE tube from the rear of the assembly. Push lightly in the spring and it should feed through. Line up to channel and press into the ECAS on the filament block. The rest of the tube  can be trimmed to around 10mm. Insert the cut PTFE tube from the rear of the assembly. Push lightly in the spring and it should feed through. Line up to channel and press into the ECAS on the filament block. The rest of the tube  can be trimmed to around 10mm.
+Insert the cut PTFE tube from the rear of the assembly. Push lightly in the spring and it should feed through. Line up to channel and press into the ECAS on the filament block. The rest of the tube  can be trimmed to around 10mm.
 
 | ![](https://media.discordapp.net/attachments/1165841694273585234/1166580032748146718/IMG_6668.jpg?ex=654b0151&is=65388c51&hm=10c6c057907171491a21cebb2b3ac11ead69224aac728873d5d7f6d5157185e5&=&width=1118&height=1492)  |  ![](https://media.discordapp.net/attachments/1165841694273585234/1166580033540866068/IMG_6667.jpg?ex=654b0152&is=65388c52&hm=aae3b6afe1f289e493093fc40ebe590237d7204de36c687404669f98e179040f&=&width=1118&height=1492) |
 | :------------: | :------------: |
