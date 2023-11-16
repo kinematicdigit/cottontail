@@ -6,6 +6,9 @@
 
 Any bugs, observations, questions related to this buffer can be directed at my home server at <https://discord.gg/Gs2vAtK7T7>
 
+@kinematicdigit
+
+
 ![](https://media.discordapp.net/attachments/1165841694273585234/1165910456683221073/394413133_10160827106300856_2289264436205624168_n.png?ex=654891ba&is=65361cba&hm=1bbe1b6bbc529e638add06c535aef12ad2c58fd5fa59339fec894c2ca8a0237b&=&width=2076&height=1492)
 
 Cotton Tail buffer system will attach directly to the Sturdy Bunny upgraded ERCF and is designed to work with any number of filament blocks you choose (the initial test phase will go up to 9). 
@@ -24,10 +27,6 @@ Features:
 - Filament Detector - Each coupler has a filament detector built in. This is optional and will interface with the new BTT MMB Can board. 
 - Filament indicator - Future QoL option that will include the ability to light up each gate to tell you if it is loaded/active and empty/out of filament.
 
-
-
-Terrance Lam
-@kinematicdigit
 ###
 
 ***
