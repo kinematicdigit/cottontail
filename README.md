@@ -1,6 +1,6 @@
 ##Cotton Tail for ERCF
 
-## DEVELOPMENT AND BETA!
+## BETA IS CURRENTLY CLOSED UNTIL RELEASE - TBA!
 
 **This is project is still underdevelopment, **please proceed with caution. I hold no responsibilities for any personal damages for the use of any of these files. Please do not modifiy or share any of the files.
 
